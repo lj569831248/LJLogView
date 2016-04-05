@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 s.name             = "LJLogView"
 s.version          = "1.0.0"
-s.summary          = "A marquee view used on iOS."
+s.summary          = "可以在手机上模拟控制台打印信息的视图工具"
 s.description      = <<-DESC
 It is a marquee view used on iOS, which implement by Objective-C.
 DESC
